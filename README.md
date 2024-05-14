@@ -1,7 +1,7 @@
 ## Spring Security OAuth
 
-I've just announced a new course, dedicated on exploring the new OAuth2 stack in Spring Security 5 - Learn Spring Security OAuth: 
-http://bit.ly/github-lsso
+OAuth2 stack in Spring Security 5 - Spring Security OAuth: 
+
 
 </br></br></br>
 
